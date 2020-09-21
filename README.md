@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-    <a href= target=_blank>
+    <a href="https://tamirarnesty.github.io" target=_blank>
         <img src="assets/memoji-hat.png" align="center" alt="Tamir Arnesty Hat Memoji" width="100">
         <img src="assets/memoji-computer.png" align="center" alt="Tamir Arnesty Coding Memoji" width="100">
         <img src="assets/memoji-sunglasses.png" align="center" alt="Tamir Arnesty Sunglasses Memoji" width="100">
