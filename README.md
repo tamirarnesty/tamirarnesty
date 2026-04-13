@@ -54,14 +54,14 @@ I'm originally from Israel 🇮🇱 and moved to Canada in 2004 🇨🇦. Both c
 ### Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamirarnesty&layout=compact&hide_border=true"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tamirarnesty&theme=default"/>
 </p>
 
 ### Currently building
 
 <p align="center">
     <a href="https://github.com/tamirarnesty/ploutizo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tamirarnesty&repo=ploutizo&hide_border=true"/>
+        <img src="https://gh-card.dev/repos/tamirarnesty/ploutizo.svg"/>
     </a>
 </p>
 
